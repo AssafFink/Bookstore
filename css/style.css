@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+    background-color: lightblue;
+    text-align: center;
+    font-size: x-large;
+}
+
+a {
+    color: blue;
+    margin: 20px;
+}
+
+.active {
+    color: green;
+    font-family: 'Lucida Handwriting';
+}
+
+.copyrights {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    margin: 0;
+}
